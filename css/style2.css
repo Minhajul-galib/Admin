@@ -1,0 +1,52 @@
+*{ 
+margin: 0px;
+padding: 0px;
+font-family: 'Bitter', serif;
+ }
+
+ body{
+ 	     background: url(../img/galib8.jpg);
+		background-repeat: no-repeat;
+		
+		background-size: cover; 
+ }
+
+ .container{
+ 		background: #40414461;
+    	width: 650px;
+  		 margin: 10px auto;
+}
+ 
+ .login{
+ 	     text-align: center;
+    color: white;
+ 	
+}
+
+.login h2{
+	text-align: center;
+    color: black;
+}
+.form-control{
+	width: 226px;
+    padding: 4px;
+    margin: 6px;
+}
+
+}
+.Galib{
+
+
+}
+.btn{
+   
+       background-color: grey;
+    width: 63px;
+    height: 22px;
+    color: #e8e2e2;
+    border: white;
+    display: block;
+    margin: 11px auto;
+   box-shadow: 0px 1px 5px 2px wheat;
+  }
+
